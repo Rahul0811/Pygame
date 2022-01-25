@@ -1,2 +1,2 @@
 # Pygame
-Spae Invader game using Pygame library
+Space Invader game using Pygame library
